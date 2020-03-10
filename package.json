@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/brycekennedy117/of-course/issues"
   },
-  "homepage": "https://github.com/brycekennedy117/of-course#readme"
+  "homepage": "https://github.com/brycekennedy117/of-course#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
