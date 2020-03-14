@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/brycekennedy117/of-course#readme",
   "dependencies": {
+    "bootstrap": "^4.4.1",
     "express": "^4.17.1",
     "nodemon": "^2.0.2",
     "pug": "^2.0.4"
